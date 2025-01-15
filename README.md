@@ -1,1 +1,1 @@
-# python
+# Pliki do zajec z programowania
